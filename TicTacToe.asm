@@ -1,5 +1,3 @@
-; Ali Hassan Soomro, +923442230949
-; 8086 Assembly, emu8086
 
 data segment       
     new_line db 13, 10, "$"
